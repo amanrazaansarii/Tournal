@@ -1,0 +1,11 @@
+{
+  "name": "Tournal",
+  "description": "Minimalist voice-first daily task planner, Wispr-style intelligent journal, workout ledger, and local progress vault with Google Workspace integration.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
