@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Tournal</string>
+    <string name="nav_tasks">Tasks</string>
+    <string name="nav_journal">Journal</string>
+    <string name="nav_workouts">Workouts</string>
+    <string name="nav_diet">Diet</string>
+    <string name="nav_expenses">Expenses</string>
+    <string name="nav_assistant">Assistant</string>
+    <string name="nav_profile">Profile</string>
+    <string name="nav_settings">Settings</string>
+    <string name="nav_widgets">Widgets</string>
+</resources>
